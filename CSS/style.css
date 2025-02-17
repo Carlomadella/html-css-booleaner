@@ -55,5 +55,29 @@ ul{
     padding-left: 20px;
 }
 
+table{
+    border-collapse:collapse;
+}
+
+thead{
+    background-color: blue;
+}
+
+.prima_cella{
+    width: 25%;
+}
+
+.seconda_cella{
+    width: 25%;
+}
+
+.terza_cella{
+    width: 50%;
+}
+
+.riga_azzurra{
+    background-color: lightblue;
+}
+
 
 
