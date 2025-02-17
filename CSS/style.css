@@ -13,7 +13,7 @@ header{
 
 header>.header_logo{
     width: 250px;
-    padding-top: 30px;
+    padding-top: 80px;
 }
 
 h1{
@@ -46,8 +46,12 @@ h1{
     font-size: 15px;
 }
 
-.primo_lorem{
+.p_lorem{
     font-size: 20px;
+}
+
+.scritta_evidenziata{
+    background-color: yellow;
 }
 
 ul{
@@ -60,7 +64,12 @@ table{
 }
 
 thead{
+    color: white;
     background-color: blue;
+}
+
+th{
+    text-align: left;
 }
 
 .prima_cella{
@@ -79,5 +88,25 @@ thead{
     background-color: lightblue;
 }
 
+.scritta_grigia{
+    color: grey;
+}
 
+.img_footer_1{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+}
+
+.img_footer_2{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    margin: 5pX;
+}
+
+.h2_footer{
+    color: white;
+    margin-left: 0px;
+}
 
