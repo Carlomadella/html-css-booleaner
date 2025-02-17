@@ -5,7 +5,7 @@
 }
 
 header{
-    background-color: blue;
+    background-color: #41aeff;
     background-image: url("../img/pattern.png");
     background-size: auto;
     height: 100px;
@@ -14,6 +14,22 @@ header{
 header>.header_logo{
     width: 250px;
     padding-top: 30px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.sottotitolo_1{
+    font-size: 20px;
+}
+
+.the_booleaner{
+    color: lightblue;
+}
+
+.sottotitolo_2{
+    font-size: 15px;
 }
 
 
