@@ -8,7 +8,7 @@ header{
     background-color: #41aeff;
     background-image: url("../img/pattern.png");
     background-size: auto;
-    height: 100px;
+    height: 170px;
 }
 
 header>.header_logo{
@@ -30,6 +30,16 @@ h1{
 
 .sottotitolo_2{
     font-size: 15px;
+}
+
+.immagini_tim{
+    height: 500px;
+}
+
+.tim{
+    width: 49%;
+    padding: 1px;
+    height: 500px;
 }
 
 
